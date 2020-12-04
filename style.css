@@ -1,0 +1,33 @@
+h1{
+    text-align:  center;
+    font-size: 75;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+}
+h2{
+    text-align:  center;
+    font-size: 2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-align: center;
+    font-size:30px;
+    font-weight: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.body{
+    transition-duration: 0.2s;
+}
+
+
+.show {display: block;}
+
+.dropdown-content {
+    display: none;
+  
+  }
+  
